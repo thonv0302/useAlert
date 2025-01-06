@@ -1,0 +1,92 @@
+1
+00:00:00,004 --> 00:00:01,005
+- Did you know
+
+2
+00:00:01,005 --> 00:00:04,005
+that businesses report significant improvements
+
+3
+00:00:04,005 --> 00:00:08,005
+in decision-making and advanced data analytics?
+
+4
+00:00:08,005 --> 00:00:11,006
+Learning these skills can increase your efficiency,
+
+5
+00:00:11,006 --> 00:00:15,000
+making you an invaluable asset.
+
+6
+00:00:15,000 --> 00:00:17,004
+Hi, I'm Walter Shields.
+
+7
+00:00:17,004 --> 00:00:21,005
+As a best-selling author of the number-one book on SQL
+
+8
+00:00:21,005 --> 00:00:23,008
+and a LinkedIn Learning instructor
+
+9
+00:00:23,008 --> 00:00:26,004
+have helped thousands of learners transition
+
+10
+00:00:26,004 --> 00:00:29,005
+to data analytics and data science.
+
+11
+00:00:29,005 --> 00:00:33,006
+Over 250,000 learners have completed
+
+12
+00:00:33,006 --> 00:00:36,004
+my SQL Essentials Training Course,
+
+13
+00:00:36,004 --> 00:00:39,000
+and many have asked for the next step.
+
+14
+00:00:39,000 --> 00:00:41,000
+Well, this is it,
+
+15
+00:00:41,000 --> 00:00:45,006
+a course designed to elevate your SQL skills.
+
+16
+00:00:45,006 --> 00:00:46,009
+In this course,
+
+17
+00:00:46,009 --> 00:00:49,004
+you'll gain hands-on skills
+
+18
+00:00:49,004 --> 00:00:53,008
+to design efficient and scalable database schemas,
+
+19
+00:00:53,008 --> 00:00:58,004
+create automated ETL processes for data handling,
+
+20
+00:00:58,004 --> 00:01:02,008
+improve query performance with indexing and partitioning,
+
+21
+00:01:02,008 --> 00:01:08,002
+and write advanced SQL queries for deep data insights.
+
+22
+00:01:08,002 --> 00:01:11,007
+So get ready to transform your skills
+
+23
+00:01:11,007 --> 00:01:14,000
+and unlock new opportunities.
+

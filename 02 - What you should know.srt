@@ -1,0 +1,136 @@
+1
+00:00:00,004 --> 00:00:02,008
+- [Instructor] For this course, here's a heads up
+
+2
+00:00:02,008 --> 00:00:05,004
+on what you should know.
+
+3
+00:00:05,004 --> 00:00:07,009
+There are a number of exercise files
+
+4
+00:00:07,009 --> 00:00:09,009
+accompanying this course,
+
+5
+00:00:09,009 --> 00:00:12,009
+and most of them come in two versions,
+
+6
+00:00:12,009 --> 00:00:14,003
+a completed version,
+
+7
+00:00:14,003 --> 00:00:18,005
+and an incomplete template with just instructions.
+
+8
+00:00:18,005 --> 00:00:22,000
+Now this setup is designed to give you the flexibility
+
+9
+00:00:22,000 --> 00:00:24,009
+to choose your own learning path.
+
+10
+00:00:24,009 --> 00:00:28,001
+You can start by referencing the completed version,
+
+11
+00:00:28,001 --> 00:00:30,004
+which I will be using in the course,
+
+12
+00:00:30,004 --> 00:00:33,004
+and this allows you to see the end result
+
+13
+00:00:33,004 --> 00:00:38,003
+and understand the goal before you try your hand at it.
+
+14
+00:00:38,003 --> 00:00:41,006
+Alternatively, you can begin with the template
+
+15
+00:00:41,006 --> 00:00:45,007
+and use the completed version to check your work.
+
+16
+00:00:45,007 --> 00:00:47,007
+In addition to these files,
+
+17
+00:00:47,007 --> 00:00:50,003
+there's a completed database file
+
+18
+00:00:50,003 --> 00:00:52,003
+that includes all the queries
+
+19
+00:00:52,003 --> 00:00:55,005
+I'll be demonstrating throughout the course.
+
+20
+00:00:55,005 --> 00:01:00,002
+This resource is invaluable for verifying your progress
+
+21
+00:01:00,002 --> 00:01:03,006
+and making sure you're on the right track.
+
+22
+00:01:03,006 --> 00:01:06,008
+The primary objective of this course is for you
+
+23
+00:01:06,008 --> 00:01:10,007
+to design and build a database from scratch.
+
+24
+00:01:10,007 --> 00:01:14,009
+That being said, I highly recommend taking the approach
+
+25
+00:01:14,009 --> 00:01:18,000
+of building the database step by step
+
+26
+00:01:18,000 --> 00:01:20,002
+as you watch the videos.
+
+27
+00:01:20,002 --> 00:01:24,002
+This hands-on method will give you a competent grasp
+
+28
+00:01:24,002 --> 00:01:26,006
+of the skills and something tangible
+
+29
+00:01:26,006 --> 00:01:29,001
+to show when you're done.
+
+30
+00:01:29,001 --> 00:01:31,002
+By the end of this course,
+
+31
+00:01:31,002 --> 00:01:34,008
+you'll have built a fully functional database
+
+32
+00:01:34,008 --> 00:01:37,007
+showcasing your new-found skills.
+
+33
+00:01:37,007 --> 00:01:40,000
+So dive in, stay engaged,
+
+34
+00:01:40,000 --> 00:01:44,000
+and let's make this an amazing learning experience.
+
